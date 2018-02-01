@@ -11,4 +11,3 @@ public with sharing class myclass {
 
 	public class CIException extends Exception {}
 }
-

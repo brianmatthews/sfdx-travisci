@@ -8,6 +8,7 @@ public with sharing class myclass {
 		throw objCIEx;
 		return '1.0.0';
 	}
+
+	public class CIException extends Exception {}
 }
 
-public class CIException extends Exception{};

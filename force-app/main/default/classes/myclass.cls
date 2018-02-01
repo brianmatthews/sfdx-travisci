@@ -10,4 +10,4 @@ public with sharing class myclass {
 	}
 }
 
-public class CIException extends Exception();
+public class CIException extends Exception{};
